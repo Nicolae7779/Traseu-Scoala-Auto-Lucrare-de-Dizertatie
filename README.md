@@ -1,7 +1,8 @@
 # Traseu-Scoala-Auto-Lucrare-de-dizertatie
 
-Tehnologii: Unity, Blender
-
+Tehnologii:
+- Unity;
+- Blender;
 
 Componente Hardware:
 

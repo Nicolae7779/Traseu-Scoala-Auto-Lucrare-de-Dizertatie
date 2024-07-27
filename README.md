@@ -1,4 +1,4 @@
-# Traseu-Scoala-Auto-Lucrare-de-dizertatie
+# Traseu-Scoala-Auto-Lucrare-de-Dizertatie
 
 Tehnologii:
 - Unity;

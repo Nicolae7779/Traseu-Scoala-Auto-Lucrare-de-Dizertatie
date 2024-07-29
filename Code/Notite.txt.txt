@@ -1,0 +1,5 @@
+pentru Camera_interior.cs  
+1) trebuie ajustată poziția X Y Z
+2) trebuie deselectat XR Origin din camera VR
+
+Mașina - să fie setată pe MĂRIMEA potrivită ca să nu pară mașina mare si camera mică
